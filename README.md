@@ -1,78 +1,84 @@
-Food & Beverage Sales & Revenue Analysis (Power BI)
-* Dashboard Preview:
+# 📊 Food & Beverage Sales & Revenue Analysis | Power BI
 
-![Dashboard](Sales & Revenue Analysis.png)
-<img width="1338" height="747" alt="Sales   Revenue Analysis" src="https://github.com/user-attachments/assets/2b13b990-8fc5-446d-9c29-8c2e61b73269" />
+## 🔍 Project Overview
+This project presents an interactive **Sales & Revenue Analysis Dashboard** built using Power BI to analyze business performance across products, channels, and time.
 
+The dashboard helps stakeholders make **data-driven decisions** by identifying trends, top-performing segments, and growth opportunities.
 
-* About This Project:
+---
 
-This project is a Power BI dashboard built to analyze sales performance for a Food & Beverage business.
+## 🎯 Business Problem
+Organizations often struggle to:
+- Track sales performance across multiple channels
+- Identify top-performing products and categories
+- Understand revenue trends over time
 
-The goal was to turn raw data into clear, actionable insights by looking at sales across different channels, products, managers, and time periods.
+This dashboard provides a **centralized and interactive view of key business metrics**.
 
-* What This Dashboard Shows:
+---
 
-Overall business performance (Orders, Revenue, Quantity)
+## 🧰 Tools & Technologies
+- Power BI  
+- Power Query (Data Transformation)  
+- DAX (for KPIs and calculations)  
+- Excel / CSV (data source)  
 
-Sales trends across multiple years
+---
 
-Channel-wise performance (Distributor, Online, Retail)
+## 🔄 Data Preparation
+- Cleaned and transformed raw data using Power Query  
+- Structured dataset for reporting  
+- Created calculated measures for analysis  
 
-Manager and salesperson performance
+---
 
-Product category contribution (Food vs Drink)
+## 📊 Dashboard Features
+- KPI cards (Orders, Revenue, Quantity)
+- Sales trends across years (2019–2021)
+- Channel-wise performance (Distributor, Online, Retail)
+- Product category analysis (Food vs Drink)
+- Manager and salesperson performance tracking
+- Interactive filters (Channel, Category, Year)
+- Drill-down capability for detailed insights
+- Key Influencers visual for deeper analysis
 
-* Key Insights:
+---
 
-Retail channel generates the highest revenue
+## 📷 Dashboard Preview
+![Dashboard](./Sales%20%26%20Revenue%20Analysis.png)
 
-2020 shows peak performance compared to other years
+---
 
-Food category dominates sales over drinks
+## 🔍 Key Insights
+- Retail channel generates the highest revenue  
+- 2020 shows peak performance compared to other years  
+- Food category contributes more to total sales than drinks  
+- Certain supervisors and salespersons consistently outperform others  
 
-Some supervisors and salespersons consistently outperform others
+---
 
-* Features:
+## 💼 Business Impact
+This dashboard helps stakeholders to:
+- Identify high-performing channels and products  
+- Improve sales strategy and resource allocation  
+- Track performance across teams and regions  
+- Support data-driven decision-making  
 
-Interactive filters for:
+---
 
-Channel (Distributor, Online, Retail)
+## 🚀 How to Use
+1. Download the `.pbix` file  
+2. Open in Power BI Desktop  
+3. Explore the dashboard using filters and visuals  
 
-Product Category (Food, Drink)
+---
 
-Year (2019–2021)
+## 📂 Files in This Repository
+- Sales Analysis.pbix – Power BI report  
+- Sales & Revenue Analysis.png – Dashboard preview  
+- README.md  
 
-Drill-down capability for deeper analysis
+---
 
-KPI cards for quick business overview
-
-Visuals including bar charts, pie charts, and trend lines
-
-Key Influencers visual for deeper insights
-
-* Tools Used:
-
-Power BI
-
-DAX (for calculations and KPIs)
-
-Excel / CSV (data source)
-
-* Files in This Repository:
-
-Sales Analysis.pbix – Power BI report
-
-Sales & Revenue Analysis.png – Dashboard preview
-
-* How to Use:
-
-Download the .pbix file
-
-Open it using Power BI Desktop
-
-Use filters and visuals to explore the dashboard
-
-* About Me:
-
-I’m building projects in Data Analytics and Power BI to develop practical, real-world skills in data visualization and storytelling.
+## 👤 About Me
+I’m a Data Analyst with 2.5 years of experience, building projects in Power BI and data analytics to develop real-world business insights and data storytelling skills.
