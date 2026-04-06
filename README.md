@@ -1,4 +1,4 @@
-# 📊 Food & Beverage Sales & Revenue Performance Analysis | Power BI
+# 📊 Food & Beverage Sales & Revenue Performance Analysis
 
 ## Project Overview
 This project presents an interactive **Sales & Revenue Analysis Dashboard** built using Power BI to analyze business performance across products, channels, and time.
