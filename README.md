@@ -7,7 +7,7 @@ The dashboard analyzes business performance across products, channels, and time,
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 Organizations often struggle to:
 - Track sales performance across multiple channels
 - Identify top-performing products and categories
@@ -17,7 +17,7 @@ This dashboard provides a **centralized and interactive view of key business met
 
 ---
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 - Power BI  
 - Power Query (Data Transformation)  
 - DAX (for KPIs and calculations)  
@@ -64,7 +64,7 @@ Drill-through view showing detailed performance across Manager, Supervisor, and 
 
 ---
 
-## 💼 Business Impact
+## Business Impact
 This dashboard helps stakeholders to:
 - Identify high-performing channels and products  
 - Improve sales strategy and resource allocation  
