@@ -46,6 +46,12 @@ This dashboard provides a **centralized and interactive view of key business met
 
 ## Dashboard Preview
 
+### Sales & Revenue Performance - Executive Summary
+![Sales & Revenue Performance](./Sales%20%26%20Revenue%20Performance%20Analysis.jpg)
+
+### Sales Performance Details
+Drill-through view showing detailed performance across Manager, Supervisor, and Salesperson levels.
+
 ![Sales Performance Details](./Sales%20Performance%20Details.jpg)
 
 ---
